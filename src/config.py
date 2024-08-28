@@ -34,4 +34,5 @@ def get_paths(IN_COLAB=False):
         'PATH_COMMON_SCRIPTS': PATH_COMMON_SCRIPTS,
         'PATH_REPORTS': PATH_REPORTS,
         'PATH_SRC': PATH_SRC,
+        'PATH_1_LEARNING_AUTOMATA_GAME': os.path.join(PATH_ASSIGNMENTS, '1_learning_automata_game'),
     }
